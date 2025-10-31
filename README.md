@@ -1,4 +1,6 @@
-# 🧾 FUTURE_DS_02 — Social Media Campaign Performance Dashboard
+# 🧾 FUTURE_DS_02 
+
+**Social Media Campaign Performance Dashboard**
 
 ## 🧠 Project Overview
 
