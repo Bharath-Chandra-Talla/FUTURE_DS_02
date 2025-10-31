@@ -25,7 +25,7 @@ It helps identify the most effective channels and campaigns for maximizing engag
 
 - Compared campaign performance across multiple platforms
 
-- Identified top-performing campaigns based on CTR and ROI
+- Identified top-performing campaigns based on ROI
 
 - Highlighted trends in impressions, spend, and conversions over time
 
